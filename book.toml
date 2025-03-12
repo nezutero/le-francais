@@ -1,5 +1,6 @@
 [book]
 authors = ["nezutero <nezutero@gmail.com>"]
+description = ""
 language = "fr"
 multilingual = false
 src = "src"
@@ -17,3 +18,9 @@ heading-split-level = 2
 [output.html]
 smart-punctuation = true
 git-repository-url = "https://github.com/nezutero/le-francais"
+default-theme = "coal"
+preferred-dark-theme = "coal"
+
+[output.html.print]
+enable = true
+page-break = true
