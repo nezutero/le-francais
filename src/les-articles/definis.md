@@ -70,5 +70,3 @@ Lorsque l’article défini est précédé des prépositions **à** (to, at) ou 
 - **On les utilise avec les jours de la semaine pour exprimer une habitude.**  
 - **On les retrouve devant les noms de pays, parties du corps, et titres.**  
 - **Attention aux contractions avec "à" et "de" !**  
-
-💡 **Astuce pour progresser** : Écoutez et lisez des phrases en français, puis essayez de remarquer l’utilisation des articles définis.

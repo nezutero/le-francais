@@ -14,7 +14,7 @@ Lorsque vous voulez dire **« to the »**, vous utilisez **« à »** suivi d’
 | **Nom commençant par une voyelle ou un h muet** | l' | **à l’** (élision) | Tu vas **à l’**école. (*to the school*) |
 | **Pluriel (masculin ou féminin)** | les | **à + les → aux** | Nous allons **aux** États-Unis. (*to the United States*) |
 
-📌 **Remarque** :  
+**Remarque** :  
 - *« à la » et « à l’ »* ne se contractent pas.  
 - *« au » et « aux »* sont des contractions obligatoires.
 
@@ -31,7 +31,7 @@ Contrairement à « à » qui est utilisé avec des lieux généraux, **« chez 
 | Pour un professionnel | Elle va **chez** le médecin. (*to the doctor’s office*) |
 | Pour une marque | Il achète ses vêtements **chez** Zara. (*at Zara*) |
 
-📌 **Astuce** :  
+**Astuce** :  
 - **« Chez »** est suivi directement d’un nom de personne ou d’un titre professionnel.  
 - On l’utilise aussi pour parler de groupes : *Chez les Français, on mange tard.* (*Among the French, people eat late.*)
 
@@ -54,11 +54,11 @@ Contrairement à « à » qui est utilisé avec des lieux généraux, **« chez 
 
 ---
 
-💡 **Résumé rapide**  
+**Résumé rapide**  
 - **« à la »** → féminin (ex. *à la plage*)  
 - **« au »** → masculin (ex. *au supermarché*)  
 - **« à l’ »** → devant voyelle ou h muet (ex. *à l’hôtel*)  
 - **« aux »** → pluriel (ex. *aux magasins*)  
 - **« chez »** → personnes ou lieux liés à des personnes (ex. *chez le coiffeur, chez Sophie*)  
 
-📌 **Astuce** : Utilisez « à » pour les endroits et « chez » pour les personnes !
+**Astuce** : Utilisez « à » pour les endroits et « chez » pour les personnes.

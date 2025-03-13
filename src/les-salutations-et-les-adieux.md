@@ -13,7 +13,7 @@ Les salutations et les formules d’au revoir sont essentielles pour interagir e
 | **Coucou**  | Très informelle et amicale. |  
 | **Bonsoir**  | Utilisée en fin d’après-midi et le soir. |  
 
-> **Remarque** : « Bonjour » peut aussi s’utiliser pour attirer l’attention avant de poser une question ou faire une demande.  
+**Remarque** : « Bonjour » peut aussi s’utiliser pour attirer l’attention avant de poser une question ou faire une demande.  
 
 ---
 
@@ -28,7 +28,7 @@ Les salutations et les formules d’au revoir sont essentielles pour interagir e
 | **À demain**  | Si on revoit la personne le lendemain. |  
 | **Bonne journée / Bonne soirée**  | Souvent utilisé en complément d’« au revoir » pour souhaiter une bonne journée/soirée. |  
 
-> **Remarque** : En quittant un magasin ou un restaurant, il est courant de dire **"Merci, au revoir !"** ou **"Bonne journée !"**.  
+**Remarque** : En quittant un magasin ou un restaurant, il est courant de dire **"Merci, au revoir !"** ou **"Bonne journée !"**.  
 
 ---
 
@@ -44,5 +44,3 @@ Les salutations et les formules d’au revoir sont essentielles pour interagir e
 - **Les adieux peuvent être combinés avec un souhait**  
   - « Bonne journée ! » en partant le matin  
   - « Bonne soirée ! » en quittant le soir  
-
-En maîtrisant ces expressions, on peut facilement interagir avec des francophones dans toutes les situations ! 😊

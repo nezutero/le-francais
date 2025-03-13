@@ -9,7 +9,7 @@ Les **articles contractés** résultent de la fusion de l’article défini (**l
 | **de + le** | **du** | *C’est le livre **du** professeur.* |  
 | **de + les** | **des** | *Il revient **des** États-Unis.* |  
 
-ℹ **Attention** :  
+**Attention** :  
 - Il n’y a **pas** de contraction avec **"la"** et **"l’"** :  
   - *Je vais **à la** boulangerie.* (et non **"au"** boulangerie ❌)  
   - *Elle revient **de l’**école.* (et non **"du"** école ❌)  
@@ -46,4 +46,4 @@ Les **articles contractés** résultent de la fusion de l’article défini (**l
 - **Pas de contraction avec "la" et "l’".**  
 - **Différencier "du/des" (article contracté) et "de" seul (indéfini).**  
 
-💡 **Astuce** : Faites des exercices avec "à" et "de" pour bien mémoriser les contractions et repérez-les dans vos lectures.
+**Astuce** : Faites des exercices avec "à" et "de" pour bien mémoriser les contractions et repérez-les dans vos lectures.

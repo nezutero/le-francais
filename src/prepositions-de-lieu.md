@@ -62,8 +62,8 @@ Les prépositions changent en fonction du type de lieu.
 
 ---
 
-💡 **Résumé rapide**  
-✔ **Position fixe** → à, dans, sur, sous, devant, derrière…  
-✔ **Mouvement/direction** → à, vers, dans, jusqu’à…  
-✔ **Lieux géographiques** → à (villes), en/au/aux (pays), en (continents)  
-✔ **Chez** → pour les personnes et certains lieux professionnels
+**Résumé rapide**  
+- **Position fixe** → à, dans, sur, sous, devant, derrière…  
+- **Mouvement/direction** → à, vers, dans, jusqu’à…  
+- **Lieux géographiques** → à (villes), en/au/aux (pays), en (continents)  
+- **Chez** → pour les personnes et certains lieux professionnels

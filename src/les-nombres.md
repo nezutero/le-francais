@@ -91,4 +91,4 @@ Les nombres ordinaux servent à indiquer un ordre, une position dans une série.
 - **Les fractions** se disent avec les ordinaux (*un quart de pizza*).  
 - **Les nombres ordinaux** expriment une position (*le 1er étage, le 2e jour*).  
 
-En maîtrisant ces notions, on peut exprimer des quantités, des dates, des prix et bien plus en français !
+En maîtrisant ces notions, on peut exprimer des quantités, des dates, des prix et bien plus en français.

@@ -66,4 +66,4 @@ En **forme négative**, les articles partitifs **"du", "de la", "de l’"** se t
 - **En négation**, on remplace l'article partitif par **"de"**.  
 - **Les articles partitifs sont utilisés avec des éléments non comptables (nourriture, boissons, matières).**
 
-💡 **Astuce** : Pensez à l'idée de "partie de quelque chose" pour vous rappeler l'usage des articles partitifs. Utilisez-les quand vous ne précisez pas une quantité exacte, mais seulement une portion ou une partie d’un tout.
+**Astuce** : Pensez à l'idée de "partie de quelque chose" pour vous rappeler l'usage des articles partitifs. Utilisez-les quand vous ne précisez pas une quantité exacte, mais seulement une portion ou une partie d’un tout.

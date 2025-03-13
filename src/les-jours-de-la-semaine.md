@@ -59,5 +59,3 @@ En français, la semaine est composée de **sept jours**, qui commencent par **l
 - Les jours sont **invariables** et **sans majuscule**.
 - On peut les utiliser avec **“ce”, “le”, “dernier”, “prochain”** pour préciser le moment.
 - Pour poser une question sur le jour, on dit **"Quel jour sommes-nous ?"** ou **"On est quel jour ?"**.
-
-💡 **Astuce pour les retenir** : Répétez-les à voix haute dans l’ordre et utilisez-les dans des phrases au quotidien !

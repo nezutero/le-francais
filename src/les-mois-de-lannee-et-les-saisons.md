@@ -79,5 +79,3 @@ L’année est divisée en **quatre saisons**, qui durent chacune environ **troi
 - Les noms des mois et des saisons **ne prennent pas de majuscule**.  
 - On utilise **"en"** pour les mois et **"au/en"** pour les saisons.  
 - Pour parler d’une date, on utilise **"le"** suivi du jour et du mois.  
-
-💡 **Astuce pour les retenir** : Récitez-les à voix haute et associez chaque mois à un événement personnel !

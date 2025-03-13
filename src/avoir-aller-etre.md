@@ -115,9 +115,7 @@ Voici un tableau détaillé des conjugaisons des verbes **avoir**, **aller** et 
 
 ---
 
-💡 **Astuce pour mémoriser**  
+**Astuce pour mémoriser**  
 - **"Avoir" est souvent utilisé pour les temps composés.**  
 - **"Être" est utilisé pour les verbes pronominaux et les verbes de mouvement.**  
 - **"Aller" est un verbe irrégulier important, surtout pour le futur proche : "Je vais partir."**  
-
-📌 **Pratiquez avec des phrases simples et utilisez ces verbes tous les jours !**

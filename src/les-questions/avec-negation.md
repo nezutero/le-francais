@@ -9,15 +9,15 @@ Les questions négatives sont couramment utilisées en français, notamment pour
 Une question négative suit généralement ces structures :  
 
 ### **🔹 Avec "est-ce que" :**  
-✅ **Pourquoi est-ce que tu ne viens pas ?** (*Why don’t you come?*)  
+**Pourquoi est-ce que tu ne viens pas ?** (*Why don’t you come?*)  
 
 ### **🔹 Avec l’inversion :**  
-✅ **Pourquoi ne viens-tu pas ?** (*Why don’t you come?*)  
+**Pourquoi ne viens-tu pas ?** (*Why don’t you come?*)  
 
 ### **🔹 Avec l’intonation (familier) :**  
-✅ **Pourquoi tu ne viens pas ?** (*Why don’t you come?*)  
+**Pourquoi tu ne viens pas ?** (*Why don’t you come?*)  
 
-💡 **Remarque :**  
+**Remarque :**  
 - À l’oral, on omet souvent le **"ne"** en langage courant → **Pourquoi tu viens pas ?**  
 
 ---
@@ -26,12 +26,12 @@ Une question négative suit généralement ces structures :
 
 La tournure **"Pourquoi ne pas + verbe à l'infinitif"** est utilisée pour **faire une suggestion ou une invitation**.  
 
-🔹 **Exemples :**  
+**Exemples :**  
 - **Pourquoi ne pas essayer ?** (*Why not try?*)  
 - **Pourquoi ne pas aller au cinéma ce soir ?** (*Why not go to the cinema tonight?*)  
 - **Pourquoi ne pas prendre un café ?** (*Why not have a coffee?*)  
 
-💡 **Remarque :**  
+**Remarque :**  
 - Cette forme est plus **impersonnelle** et douce qu’une question directe.  
 
 ---
@@ -40,12 +40,12 @@ La tournure **"Pourquoi ne pas + verbe à l'infinitif"** est utilisée pour **fa
 
 Parfois, une question négative peut exprimer **une attente contrariée** ou **une surprise**.  
 
-🔹 **Exemples :**  
+**Exemples :**  
 - **Pourquoi ne m’as-tu pas appelé ?** (*Why didn’t you call me?*) → **Attente déçue**  
 - **Pourquoi tu n’as pas répondu ?** (*Why didn’t you answer?*) → **Étonnement**  
 - **Pourquoi il n’est pas encore là ?** (*Why isn’t he here yet?*) → **Impatience**  
 
-💡 **Remarque :**  
+**Remarque :**  
 - On peut renforcer l'étonnement avec **"donc"** :  
   - **Pourquoi n’es-tu pas venu, donc ?** (*Why didn’t you come, then?*)  
 
@@ -71,7 +71,7 @@ Parfois, une question négative peut exprimer **une attente contrariée** ou **u
 
 ---
 
-## **📌 Récapitulatif**  
+## **Récapitulatif**  
 
 - **Pourquoi ne + verbe conjugué + pas ?** → Attente, surprise, confirmation.  
   - *Pourquoi tu ne réponds pas ?*  
@@ -79,5 +79,3 @@ Parfois, une question négative peut exprimer **une attente contrariée** ou **u
   - *Pourquoi ne pas sortir ce soir ?*  
 - **Pourquoi pas ?** → Accepter une suggestion.  
   - *"On mange une pizza ?" → "Pourquoi pas !"*  
-
-Les questions négatives sont très utilisées en français pour exprimer des nuances subtiles dans la conversation ! 🗣️

@@ -6,14 +6,14 @@ En français, ces mots interrogatifs servent à poser des questions précises. I
 
 ## **1. "Où" → Pour parler d’un lieu**  
 
-📌 **Signification :** "Où" signifie **dans quel endroit** ou **vers quel lieu**.  
+**Signification :** "Où" signifie **dans quel endroit** ou **vers quel lieu**.  
 
-🔹 **Exemples :**  
+**Exemples :**  
 - **Où habites-tu ?** (*Where do you live?*)  
 - **Où est-ce que tu vas ?** (*Where are you going?*)  
 - **Où se trouve la gare ?** (*Where is the train station?*)  
 
-✔ **Cas particuliers :**  
+**Cas particuliers :**  
 - Peut être utilisé avec des prépositions :  
   - **D’où viens-tu ?** (*Where do you come from?*)  
   - **Vers où allons-nous ?** (*Where are we going towards?*)  
@@ -22,14 +22,14 @@ En français, ces mots interrogatifs servent à poser des questions précises. I
 
 ## **2. "Quand" → Pour parler du temps**  
 
-📌 **Signification :** "Quand" sert à demander **à quel moment** une action se passe.  
+**Signification :** "Quand" sert à demander **à quel moment** une action se passe.  
 
-🔹 **Exemples :**  
+**Exemples :**  
 - **Quand arrives-tu ?** (*When are you arriving?*)  
 - **Quand est-ce que le film commence ?** (*When does the movie start?*)  
 - **Tu es né quand ?** (*When were you born?*)  
 
-✔ **Cas particuliers :**  
+**Cas particuliers :**  
 - Peut être combiné avec des mots comme **depuis, jusqu’à, à partir de** :  
   - **Depuis quand apprends-tu le français ?** (*Since when have you been learning French?*)  
   - **Jusqu’à quand restes-tu ici ?** (*Until when are you staying here?*)  
@@ -38,14 +38,14 @@ En français, ces mots interrogatifs servent à poser des questions précises. I
 
 ## **3. "Pourquoi" → Pour demander une raison**  
 
-📌 **Signification :** "Pourquoi" sert à demander **la cause ou la justification** d’une action.  
+**Signification :** "Pourquoi" sert à demander **la cause ou la justification** d’une action.  
 
-🔹 **Exemples :**  
+**Exemples :**  
 - **Pourquoi étudies-tu le français ?** (*Why are you studying French?*)  
 - **Pourquoi est-ce qu’il pleut autant ?** (*Why is it raining so much?*)  
 - **Pourquoi tu ne m’appelles jamais ?** (*Why do you never call me?*)  
 
-✔ **Cas particuliers :**  
+**Cas particuliers :**  
 - La réponse commence souvent par **"Parce que"** (*Because*).  
   - **Pourquoi es-tu fatigué ?** → **Parce que j’ai mal dormi.**  
 - Peut être combiné avec **"pourquoi pas"** (*Why not?*).  
@@ -55,14 +55,14 @@ En français, ces mots interrogatifs servent à poser des questions précises. I
 
 ## **4. "Qui" → Pour parler d’une personne**  
 
-📌 **Signification :** "Qui" sert à poser une question **sur une personne**.  
+**Signification :** "Qui" sert à poser une question **sur une personne**.  
 
-🔹 **Exemples :**  
+**Exemples :**  
 - **Qui est-ce ?** (*Who is it?*)  
 - **Qui vient ce soir ?** (*Who is coming tonight?*)  
 - **Avec qui voyages-tu ?** (*With whom are you traveling?*)  
 
-✔ **Cas particuliers :**  
+**Cas particuliers :**  
 - Peut être sujet ou complément :  
   - **Qui a fait ça ?** (*Who did this?*) → Sujet.  
   - **Tu vois qui ?** (*Who do you see?*) → Complément.  
@@ -74,14 +74,14 @@ En français, ces mots interrogatifs servent à poser des questions précises. I
 
 ## **5. "Comment" → Pour demander une manière, une explication**  
 
-📌 **Signification :** "Comment" sert à poser une question **sur la façon dont quelque chose se passe**.  
+**Signification :** "Comment" sert à poser une question **sur la façon dont quelque chose se passe**.  
 
-🔹 **Exemples :**  
+**Exemples :**  
 - **Comment vas-tu ?** (*How are you?*)  
 - **Comment est-ce que ça marche ?** (*How does it work?*)  
 - **Comment tu t’appelles ?** (*What’s your name?*)  
 
-✔ **Cas particuliers :**  
+**Cas particuliers :**  
 - Peut être utilisé avec des adjectifs :  
   - **Comment est-elle ?** (*What is she like?*)  
   - **Comment trouve-tu ce livre ?** (*How do you find this book?*)  
@@ -97,5 +97,3 @@ En français, ces mots interrogatifs servent à poser des questions précises. I
 | **Pourquoi** | **Cause, raison** (Why) | Pourquoi es-tu en retard ? |
 | **Qui** | **Personne** (Who) | Qui vient avec nous ? |
 | **Comment** | **Manière, façon** (How) | Comment fait-on ça ? |
-
-Ces mots sont indispensables pour poser des questions en français et s’adaptent à différents niveaux de langue ! 🎯

@@ -15,7 +15,7 @@ Les expressions de politesse sont essentielles pour bien interagir en français.
 | **Pardon**  | Pour s’excuser ou demander à quelqu’un de se pousser. |  
 | **Veuillez…**  | Formule très polie pour demander quelque chose (*"Veuillez patienter."*). |  
 
-> **Remarque** : *« S’il vous plaît »* est formel, tandis que *« S’il te plaît »* est informel.  
+**Remarque** : *« S’il vous plaît »* est formel, tandis que *« S’il te plaît »* est informel.  
 
 ---
 

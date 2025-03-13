@@ -81,5 +81,3 @@ On utilise souvent **"il fait"**, **"il y a"**, **"il"** ou **"c'est"**.
 - On utilise **"il y a"** pour le vent, la pluie, le soleil, etc.  
 - On utilise **"il"** pour des phénomènes comme *pleuvoir* ou *neiger*.  
 - Les expressions courantes rendent la conversation plus naturelle.  
-
-💡 **Astuce pour s’entraîner** : Regardez la météo en français tous les jours et essayez de la décrire !

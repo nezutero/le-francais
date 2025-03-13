@@ -63,5 +63,3 @@ En **forme négative**, les articles indéfinis **"un", "une" et "des"** devienn
 - **Utilisés pour parler d’un élément inconnu ou non précis.**  
 - **Se transforment en "de/d’" à la négation.**  
 - **Ne pas confondre "des" (indéfini) et "les" (défini).**  
-
-💡 **Astuce** : Pratiquez en lisant des textes et en repérant les articles indéfinis. Essayez de reformuler des phrases à la négation pour bien comprendre leur transformation.

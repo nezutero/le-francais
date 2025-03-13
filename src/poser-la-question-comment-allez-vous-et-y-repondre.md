@@ -13,7 +13,7 @@ En français, il existe plusieurs façons de demander à quelqu’un comment il 
 | **Ça va ?**  | Très informel, utilisé entre amis, collègues ou en famille. |  
 | **Tu vas bien ? / Vous allez bien ?**  | Alternative pour demander si quelqu’un va bien. |  
 
-> **Remarque** : « Comment allez-vous ? » et « Comment vas-tu ? » sont des questions ouvertes, tandis que « Ça va ? » est plus direct et souvent attendu comme une simple formalité.  
+**Remarque** : « Comment allez-vous ? » et « Comment vas-tu ? » sont des questions ouvertes, tandis que « Ça va ? » est plus direct et souvent attendu comme une simple formalité.  
 
 ---
 
@@ -29,7 +29,7 @@ En français, il existe plusieurs façons de demander à quelqu’un comment il 
 | **Je suis fatigué(e).**  | Si l’on veut exprimer de la fatigue. |  
 | **Pas mal !**  | Réponse légèrement positive. |  
 
-> **Remarque** : Après avoir répondu, il est poli de renvoyer la question avec **« Et toi ? »** ou **« Et vous ? »**.  
+**Remarque** : Après avoir répondu, il est poli de renvoyer la question avec **« Et toi ? »** ou **« Et vous ? »**.  
 
 ---
 
@@ -50,5 +50,4 @@ En français, il existe plusieurs façons de demander à quelqu’un comment il 
   - **B** : *Bof, pas trop aujourd’hui…*  
   - **A** : *Oh, qu’est-ce qui se passe ?*  
 
-Ces formules sont très courantes dans la vie quotidienne. \
-Apprendre à les utiliser naturellement permet d’améliorer ses interactions en français !
+Ces formules sont très courantes dans la vie quotidienne. Apprendre à les utiliser naturellement permet d’améliorer ses interactions en français.

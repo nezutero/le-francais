@@ -21,7 +21,7 @@ En français, l’heure est exprimée avec le système de 24 heures dans un cont
 | 5:45 | Il est **cinq heures quarante-cinq**. / Il est **six heures moins le quart**. | It is five forty-five. / It is a quarter to six. |
 | 12:00 | Il est **midi** (12:00 PM) / Il est **minuit** (12:00 AM). | It is noon/midnight. |
 
-💡 **Remarque :**  
+**Remarque :**  
 - On dit **"une heure"** et non **"un heure"** (car "heure" est féminin).  
 - On utilise **"et quart"** (*quarter past*), **"et demie"** (*half past*) et **"moins le quart"** (*quarter to*).  
 
@@ -35,7 +35,7 @@ En français, l’heure est exprimée avec le système de 24 heures dans un cont
 | **de l’après-midi** | De 12:00 à 18:00 → *Il est 15 heures de l’après-midi.* |
 | **du soir** | De 18:00 à 00:00 → *Il est 22 heures du soir.* |
 
-💡 **Dans un contexte officiel (trains, avions, horaires de travail), on utilise le système de 24 heures sans préciser "du matin" ou "du soir"** → *Le train part à 17h45.*  
+**Dans un contexte officiel (trains, avions, horaires de travail), on utilise le système de 24 heures sans préciser "du matin" ou "du soir"** → *Le train part à 17h45.*  
 
 ---
 
@@ -63,8 +63,8 @@ En français, l’heure est exprimée avec le système de 24 heures dans un cont
 
 ---
 
-💡 **Résumé rapide**  
-✔ **Poser la question** → *Quelle heure est-il ?*  
-✔ **Répondre** → *Il est [heure] heures [minutes].*  
-✔ **Matin / après-midi / soir** → *Il est 10h du matin.*  
-✔ **Expressions utiles** → *Dans 10 minutes, depuis une heure, à 20h.*
+**Résumé rapide**  
+- **Poser la question** → *Quelle heure est-il ?*  
+- **Répondre** → *Il est [heure] heures [minutes].*  
+- **Matin / après-midi / soir** → *Il est 10h du matin.*  
+- **Expressions utiles** → *Dans 10 minutes, depuis une heure, à 20h.*
